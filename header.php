@@ -7,7 +7,7 @@
 
 		<title>Gremienwahlen 2014 - wahlen.stura-md.de</title>
 
-		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic' rel='stylesheet' type='text/css'>
 		<link href='style.css' rel='stylesheet' type='text/css'>
 
 	</head>
