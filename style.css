@@ -97,7 +97,7 @@ footer div {
 #landing {
 	font-size: 3em;
 	background-color: #F6F3E9;
-	width: 760px;
+	max-width: 760px;
 	display: inline-block;
 	margin-top: 5em;
 	opacity: 0.9;
@@ -106,7 +106,7 @@ footer div {
 #subtitle {
 	font-size: 2em;
 	background-color: #F6F3E9;
-	width: 380px;
+	max-width: 380px;
 	display: inline-block;
 	margin-bottom: 5em;
 	opacity: 0.9;
