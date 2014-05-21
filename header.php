@@ -19,8 +19,8 @@
 				<a href="index.php">Übersicht</a>
 				<a href="stura.php">Studierendenrat</a>
 				<a href="senat.php">Senat</a>
-				<a href="#">Fachschaftsräte</a>
-				<a href="#">Fakultätsräte</a>
-				<a href="info.php">Wie wird gewählt?</a>
+<!-- 				<a href="#">Fachschaftsräte</a> -->
+<!-- 				<a href="#">Fakultätsräte</a>  -->
+<!-- 				<a href="info.php">Informationen</a> -->
 			</nav>
 		</header>

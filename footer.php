@@ -1,3 +1,4 @@
+		<div class="clear"></div>
 		<footer>
 			<div>
 					Erstellt von <a href="http://twitter.com/fil_ter">@fil_ter</a> -
