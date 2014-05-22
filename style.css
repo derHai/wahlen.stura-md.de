@@ -47,6 +47,16 @@ h2, h3 {
 	padding: 1em;*/
 }
 
+.candidate {
+  vertical-align: top;
+  max-height: 465px;
+  overflow:hidden;
+  transition: max-height ease-in-out 0.5s ;
+}
+
+.candidate:hover {
+  max-height: 1000px;
+}
 
 .full_box {
 	max-width: 760px;
@@ -161,4 +171,8 @@ footer div {
 
 .clear {
 	clear: both;
+}
+
+footer {
+  margin-bottom: 200px;
 }
