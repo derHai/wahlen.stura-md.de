@@ -12,7 +12,7 @@
 		<div></div>
 
 		<div class="canidates">
-			<div class="half_box randomize" id="johannes_filter">
+			<div class="half_box candidate randomize" id="johannes_filter">
 				<img src="potrait/filter.jpg">
 				<div class="name">Johannes Filter</div>
 				<div class="hsg">geile Hochschulgruppe</div>
@@ -33,7 +33,7 @@
 				<a href="#">www.example.org</a>
 			</div>
 
-			<div class="half_box randomize">
+			<div class="half_box candidate randomize">
 				<img src="potrait/filter.jpg">
 				<div class="name">Johannes Filter</div>
 				<div class="hsg">geile Hochschulgruppe</div>
@@ -45,7 +45,7 @@
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</div>
 
-			<div class="half_box randomize">
+			<div class="half_box candidate randomize">
 				<img src="potrait/filter.jpg">
 				<div class="name">Johannes Filter</div>
 				<div class="hsg">geile Hochschulgruppe</div>
@@ -57,7 +57,7 @@
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</div>
 
-			<div class="half_box randomize">
+			<div class="half_box candidate randomize">
 				<img src="potrait/filter.jpg">
 				<div class="name">Johannes Filter</div>
 				<div class="hsg">geile Hochschulgruppe</div>
@@ -69,7 +69,7 @@
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</div>
 
-			<div class="half_box randomize">
+			<div class="half_box candidate randomize">
 				<img src="potrait/filter.jpg">
 				<div class="name">Johannes Filter</div>
 				<div class="hsg">geile Hochschulgruppe</div>
@@ -81,7 +81,7 @@
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</div>
 
-			<div class="half_box randomize">
+			<div class="half_box candidate randomize">
 				<img src="potrait/filter.jpg">
 				<div class="name">Johannes Filter</div>
 				<div class="hsg">geile Hochschulgruppe</div>
@@ -93,7 +93,7 @@
 				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 			</div>
 
-			<div class="half_box randomize">
+			<div class="half_box candidate randomize">
 				<img src="potrait/filter.jpg">
 				<div class="name">Johannes Filter</div>
 				<div class="hsg">geile Hochschulgruppe</div>
