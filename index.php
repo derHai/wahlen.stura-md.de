@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
 
-<div id="landing">Deine Stimme für die Studierendenschaft.</div><br>
-<div id="subtitle">Am 2. und 3. Juni sind Gremienwahlen. Mach mit!</div>
+<div id="landing">Deine Stimme für unsere Studierendenschaft.</div><br>
+<div id="subtitle">Am 3. und 4. Juni sind Gremienwahlen an der OVGU.</div>
 
 <div></div>
 <h3>Übersicht</h3>
@@ -17,13 +17,13 @@
 <h3>Räume</h3>
 
 <div class="full_box">
-	Wo ihr eure Stimme abgeben könnt erfahrt ihr hier: <a href="http://www.uni-magdeburg.de/rektorat/wahlen/2014/Wahlraeume_Wahlzeiten_2014.pdf">Wahlräume</a>
+	Wo ihr eure Stimme abgeben könnt, erfahrt ihr hier: <a href="http://www.uni-magdeburg.de/rektorat/wahlen/2014/Wahlraeume_Wahlzeiten_2014.pdf">Wahlräume</a>
 </div>
 
 <h3>Mehr Informationen</h3>
 
 <div class="full_box">
-	Eine vollständige Auflistnug der Wahlvorschläge findet ihr hier: <a href="http://www.uni-magdeburg.de/rektorat/wahlen/2014/Wahlvorschlaege_2014.pdf">Wahlvorschläge</a>
+	Eine vollständige Auflistung der Wahlvorschläge findet ihr hier: <a href="http://www.uni-magdeburg.de/rektorat/wahlen/2014/Wahlvorschlaege_2014.pdf">Wahlvorschläge</a>
 	<br><br>
 	Weitere Informationen zu den Gremienwahlen findet ihr hier: <a href="http://www.ovgu.de/-p-25438">Weitere Informationen auf der Uni-Seite</a>
 

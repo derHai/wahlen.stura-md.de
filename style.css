@@ -49,13 +49,13 @@ h2, h3 {
 
 .candidate {
   vertical-align: top;
-  max-height: 465px;
+  max-height: 800px;
   overflow:hidden;
   transition: max-height ease-in-out 0.5s ;
 }
 
 .candidate:hover {
-  max-height: 1000px;
+  max-height: 2000px;
 }
 
 .full_box {
@@ -70,6 +70,10 @@ h2, h3 {
 	margin: 1em;
 	padding: 1em 0.5em;
 	display: inline-block;
+}
+
+.half_box img {
+	height: 250px;
 }
 
 .full_box, .half_box {
@@ -104,6 +108,10 @@ h2, h3 {
 
 .justify {
 	text-align: justify;
+}
+
+.left {
+	text-align: left;
 }
 
 footer a {
@@ -174,5 +182,5 @@ footer div {
 }
 
 footer {
-  margin-bottom: 200px;
+  margin-top: 200px;
 }
