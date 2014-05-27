@@ -13,16 +13,17 @@
 
 		<div class="canidates">
 			<div class="half_box candidate randomize">
-				<img src="potrait/filter.jpg">
+				<img src="potrait/hoensch.jpg">
 				<div class="name">Alexander Hönsch</div>
 				<div class="hsg">human agents</div>
-				<p class="justify">Als einer der 3 Sprecher des Hochschulbündnis Magdeburg&Stendal setze
+				<p class="left">Als einer der 3 Sprecher des Hochschulbündnis Magdeburg&Stendal setze
 					ich mich für eine Ausfinanzierung von Bildung und Kultur ein. Durch
 					meine 2-jährige Erfahrung in der Gremienarbeit an der FMA (Fara, Fakra
 					sowie Studienkommission/Prüfungsausschuss) sehe ich mich qualifiziert
 					Deine Interessen nun auch im Stura zu vertreten. Bestehende Referate und
 					Projekte zu erhalten und nachhaltig zu fördern ist mir wichtig.
 					Deine Stimme zählt!</p>
+					<a href="http://www.human-agents.de">www.human-agents.de</a>
 			</div>
 
 			<div class="half_box candidate randomize">
@@ -75,27 +76,93 @@
 					Grüße,<br>
 					Laura
 				</p>
+
+					<a href="http://www.facebook.com/ghg.md">www.facebook.com/ghg.md</a>
 			</div>
 
-			<div class="half_box candidate randomize">
-				<img src="potrait/teuber.jpg">
-				<div class="name">Jan Teuber</div>
+
+
+	<div class="half_box candidate randomize">
+				<img src="potrait/brinken.jpg">
+				<div class="name">Julius Brinken</div>
+				<div class="hsg">Grüne Hochschulgruppe</div>
+					<p class="left">
+						Ich bin Julius (25) und Studiere im Master Wirtschaftsingenieur Logistik im 1. Semester. Mir geht es darum Informationen und Bedürfnisse aus der Studierendenschaft in den Senat zu tragen. Persönlich sehe ich vor allem ausgezeichnete Studienbedingungen, Abbau Bürokratischer Hürden und ein vielfältigen und schönen Campus, auf dem sich alle Uniangehörigen wohl fühlen können, als unsere Grundbedürfnisse an.  Ebenso wichtig ist, Informationen aus den Gremien über Entscheidungen und Entwicklungen an die Studierenden weiterzugeben. Dies ist die Voraussetzung dafür, dass wir Studierende unsere eigene Uni mitgestalten können.
+						<br>
+						Für Fragen und Anregungen könnt Ihr mich über die Grüne Hochschulgruppe (Facebook oder live Dienstags ab 21 Uhr im Café Central) oder per Mail an julius.brinken@st.ovgu.de erreichen.
+					</p>
+
+					<a href="http://www.facebook.com/ghg.md">www.facebook.com/ghg.md</a>
+			</div>
+
+		<div class="half_box candidate randomize">
+				<img src="potrait/reissner.png">
+				<div class="name">Katja Reißner</div>
 				<div class="hsg">human agents</div>
-				<p>coming soong</p>
+					<p class="left">
+						Katja Reißner, 26 jahre alt,( human agents)
+						Ich studiere im 4 Semester Psychologie. Durch meine diesjährige StuRa-Beauftragung für die Psychosoziale Betreuung ist es mir besonders wichtig bestehende Projekte, Referate und soziale Anlaufstellen für Studierende transparent zu fördern, aber auch Raum für neue Ansätze und Ideen zu schaffen. Mit deiner Stimme kannst Du mich unterstützen die Interessen der Studierenden fakultätsübergreifend zu vertreten, denn nur so schaffen wir gemeinsam ein attraktives, Grenzen auflösendes Studieren! <br><br>
+						 
+						Gruß, 
+						Katja
+					</p>
+					<a href="http://www.human-agents.de">www.human-agents.de</a>
 			</div>
 
-<!-- 	<div class="half_box candidate randomize">
-				<img src="potrait/filter.jpg">
-				<div class="name">Johannes Filter</div>
-				<div class="hsg">geile Hochschulgruppe</div>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-			</div> -->
-		</div> 
+		<div class="half_box candidate randomize">
+				<img src="potrait/feldt.jpg">
+				<div class="name">Stefan Feldt</div>
+				<div class="hsg">RCDS</div>
+					<p class="left">
+
+					</p>
+		</div>
+
+		<div class="half_box candidate randomize">
+				<img src="potrait/lange.jpg">
+				<div class="name">Friederike Lange</div>
+				<div class="hsg">RCDS</div>
+					<p class="left">
+
+					</p>
+		</div>
+
+		<div class="half_box candidate randomize">
+				<img src="potrait/roth.jpg">
+				<div class="name">Tankred Roth</div>
+				<div class="hsg">Liste der Ingenieure</div>
+					<p class="left">
+						Bereits in den Jahren 2011 bis 2013 war ich als Vertreter der Liste der Ingenieure im Studierendenrat aktiv. In der kommenden Legislaturperiode möchte ich mich im Fachschaftsrat der FEIT sowie im Studierendenrat engagieren und dabei folgende Schwerpunkte setzen:<br><br>
+						- Effiziente Arbeitsweise des Studierendenrats <br>
+						- Studierbarkeit von Studiengängen <br>
+						- Förderung von Wettbewerben und Initiativen mit technischem oder naturwissenschaftlichem Schwerpunkt <br>
+						- Bessere Zusammenarbeit zwischen den studentischen Gremien
+					</p>
+					<a href="https://www.facebook.com/ListeIng">www.facebook.com/ListeIng</a>
+		</div>	
+
+		<div class="half_box candidate randomize">
+				<img src="potrait/sorge.jpg">
+				<div class="name">Björn Sorge</div>
+				<div class="hsg">human agents</div>
+					<p class="left">
+						Hallo! <br>
+						Mein Name ist Björn Sorge.<br>
+						Ich engagiere mich seit Beginn meines Studiums in unterschiedlichsten Gremien.<br>
+						Anfangs in FaRa und FakRa, später im Förderverein Medizinstudierender Magdeburg e.V. und der Kiste e.V. sowie - zu guter letzt -
+						in der noch laufenden Legislatur im Studierendenrat der OvGU.<br>
+						Und auch weiterhin würde ich mich für Eure Interessen im StuRa einsetzen wollen und mich für eine qualifizierte Bildung und ein hohes kulturelles Angebot an Eurem Studienort engagieren!<br>
+						Das geht meiner Meinung nach am Besten in konstruktiver Zusammenarbeit und im Austausch mit allen Interessierten, Fakultäten und Hochschulgruppen.<br>
+						Auf dass wir und noch viele weitere Generationen perfekte Studienbedingungen und beste Freizeitmöglichkeiten in einem schönen Umfeld mit Zukunft erleben dürfen! <br>
+						Mit Ehrlichkeit, Transparenz und Nachhaltigkeit möchte ich dafür kämpfen - in Eurem Sinne!
+					</p>
+					<a href="http://www.human-agents.de">www.human-agents.de</a>
+		</div>
+
+
+
+
+		</div>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script type="text/javascript">

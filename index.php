@@ -25,7 +25,7 @@
 <div class="full_box">
 	Eine vollständige Auflistung der Wahlvorschläge findet ihr hier: <a href="http://www.uni-magdeburg.de/rektorat/wahlen/2014/Wahlvorschlaege_2014.pdf">Wahlvorschläge</a>
 	<br><br>
-	Weitere Informationen zu den Gremienwahlen findet ihr hier: <a href="http://www.ovgu.de/-p-25438">Weitere Informationen auf der Uni-Seite</a>
+	Weitere Informationen zu den Gremienwahlen findet ihr <a href="http://www.ovgu.de/-p-25438">auf der Uni-Seite.</a>
 
 
 </div>
