@@ -6,7 +6,7 @@ body {
   text-align: center;
 	font-family: 'Open Sans', sans-serif;
   font-weight: 300;
-  font-size: 1em;
+  font-size: 16px;
   line-height: 1.5;
   color: #1B1B1B;
 }
@@ -66,7 +66,7 @@ h2, h3 {
 }
 
 .half_box {
-	max-width: 380px;
+	width: 380px;
 	margin: 1em;
 	padding: 1em 0.5em;
 	display: inline-block;
