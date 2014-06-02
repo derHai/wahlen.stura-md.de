@@ -35,7 +35,6 @@ h1, h2, h3{
 	color: #F6F3E9;
 	display: inline-block;
 	padding: 0 0.5em;
-	font-weight: 100;
 	opacity: 0.9;
 }
 
@@ -200,7 +199,7 @@ footer {
 	}
 
 	.half_box {
-		width: 100%;
+		width: 80%;
 	}
 } 
 
