@@ -198,5 +198,9 @@ footer {
 	nav a{
 		display: block;
 	}
+
+	.half_box {
+		width: 100%;
+	}
 } 
 
