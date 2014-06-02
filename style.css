@@ -28,7 +28,7 @@ nav a:hover {
 	color: #1B1B1B;
 }
 
-h1,h2, h3{
+h1, h2, h3{
 	font-weight: 100;
 	font-size: 3em;
 	background-color: #d44848;
@@ -42,9 +42,6 @@ h1,h2, h3{
 h2, h3 {
 	font-size: 1.5em;
 	margin: 2em;
-/*	color: #d44848;*/
-/*	font-weight: 300;
-	padding: 1em;*/
 }
 
 .candidate {
@@ -197,6 +194,7 @@ footer {
 	h2, h3, #landing, #subtitle {
 		font-size: 18px;
 	}
+
 	nav a{
 		display: block;
 	}
