@@ -187,13 +187,16 @@ footer {
 
 @media (max-width: 480px){
 	body {
-		font-size: 12px;
+		font-size: 16px;
 	}
 
-	h1,h2,h3 {
-		font-size: 14px;
+	h1 {
+		font-size: 20px;
 	}
 
+	h2, h3, #landing, #subtitle {
+		font-size: 18px;
+	}
 	nav a{
 		display: block;
 	}
