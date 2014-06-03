@@ -174,7 +174,7 @@
 		<script type="text/javascript">
 		jQuery(function(){
 			$('.canidates').html(
-				$('.randomize').sort( function(){ return ( Math.round( Math.random() ) - 0.5 ) } )
+				$('.randomize').sort( function(){ return ( Math.round( Math.random() * 100 ) - 0.5 ) } )
 				);
 		});
 		</script>
