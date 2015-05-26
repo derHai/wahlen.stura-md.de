@@ -1,0 +1,58 @@
+<!doctype html>
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+		<title>Gremienwahlen - wahlen.stura-md.de</title>
+
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic' rel='stylesheet' type='text/css'>
+		<link href='../style.css' rel='stylesheet' type='text/css'>
+		<script src='../shuffle.js'> </script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script type="text/javascript">
+		jQuery(function(){
+			$('.canidates').html(
+				shuffle($('.randomize'))
+			);
+		});
+		</script>
+                <script type="text/javascript">
+                jQuery(function(){
+                    $("#header").load("../header.html"); 
+                    $("#footer").load("../footer.html"); 
+                });
+                </script>
+
+	</head>
+	<body>
+                <div id="header"></div>
+		<div class="clear"></div>
+                <h3>FMA: Fachschaftsrat (FaRaMATH) und Fakultätsrat</h3>
+		<div class="full_box">
+                      <p>Weitere Informationen findest du auf: <a href="http://www.faramath.de/">www.faramath.de</a>
+                      </p>
+		</div>
+		<h3>Kandidat*innen</h3>
+<!--
+		<div class="canidates">
+			<div class="half_box candidate randomize">
+				<img src="../potrait/#">
+				<div class="name">Person 1</div>
+				<div class="gremium">FaRaFEIT</div>
+				<p class="left"></p>
+			</div>
+			<div class="half_box candidate randomize">
+				<img src="../potrait/#">
+				<div class="name">Person 2</div>
+				<div class="gremium">FaRaFEIT</div>
+				<p class="left"></p>
+		        </div>
+              </div>
+-->
+        <div id="footer"></div>
+
+  </body>
+</html>
+

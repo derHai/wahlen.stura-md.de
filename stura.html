@@ -5,35 +5,42 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-		<title>Gremienwahlen 2014 - wahlen.stura-md.de</title>
+		<title>Gremienwahlen - wahlen.stura-md.de</title>
 
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic' rel='stylesheet' type='text/css'>
 		<link href='style.css' rel='stylesheet' type='text/css'>
 		<script src='shuffle.js'> </script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script type="text/javascript">
+		jQuery(function(){
+			$('.canidates').html(
+				shuffle($('.randomize'))
+			);
+		});
+		</script>
+                <script type="text/javascript">
+                jQuery(function(){
+                        $("#header").load("header.html");
+                        $("#footer").load("footer.html");
+                        });
+                </script>
+
 
 	</head>
 	<body>
-		<header>
-			<h1>Gremienwahlen 2014</h1>
-			<br>
-			<nav>
-				<a href="index.html">Übersicht</a>
-				<a href="stura.html">Kandidat*innen für Studierendenrat</a>
-				<a href="senat.html">Kandidat*innen für Senat</a>
-			</nav>
-		</header>
-
+                <div id="header"></div>
+                <div class="clear"></div>
 		<h2>Studierendenrat</h2>
 
 		<div class="full_box">
 			Der Studierendenrat (Stura) der Otto-von-Guericke-Universität ist das höchste Organ der studentischen Selbstverwaltung. Als dieses hat es die politische  Aufgabe und in Kooperation mit eignen Referaten, Beauftragten und Fachschaften, die Interessen und Belange der Studierenden in Hochschule und Gesellschaft zu vertreten und sie nach Möglichkeit in kulturellen, fachlichen, wirtschaftlichen und sozialen Angelegenheiten zu unterstützen.
 			<br><br>
-			Der Stura besteht aus 15 ehrenamtlichen Mitgliedern, die jedes Jahr per Listenwahl von den Studierenden gewählt werden. Über ein paar Kandidaten kannst du dich hier informieren.
+			Der Stura besteht aus <b>15 ehrenamtlichen Mitgliedern</b>, die jedes Jahr per Listenwahl von den Studierenden gewählt werden. Über ein paar Kandidaten kannst du dich hier informieren.
 		</div>
 
 		<h3>Kandidat*innen</h3>
 		<div></div>
-
+<!--
 		<div class="canidates">
 			<div class="half_box candidate randomize">
 				<img src="potrait/hoensch.jpg">
@@ -194,8 +201,13 @@
 
 						Dafür setze ich mich bereits in der Kommission Studium und Lehre ein, im Studentenwerk und in der Strategiekommission der Uni ein. Das würde ich im nächsten Semester gerne im Studierendenrat fortsetzen.
 					</p>
-<!-- 					<a href="https://www.facebook.com/RCDSMagdeburgUni">www.facebook.com/RCDSMagdeburgUni</a> -->
-		</div>
+
+
+
+
+
+
+</div>
 
 		<div class="half_box candidate randomize">
 			<img src="potrait/hans.jpg">
@@ -211,7 +223,6 @@
 
 					Ich bin im Hochschulbündnis gegen die Kürzungen aktiv und will weiterhin für eine ausfinanzierte Universität auf allen Ebenen kämpfen.
 				</p>
-				<!-- <a href="https://www.facebook.com/RCDSMagdeburgUni">www.facebook.com/RCDSMagdeburgUni</a> -->
 		</div>
 
 		<div class="half_box candidate randomize">
@@ -245,22 +256,10 @@
 
 		</div>
 
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<script type="text/javascript">
-		jQuery(function(){
-			$('.canidates').html(
-				shuffle($('.randomize'))
-			);
-		});
-		</script>
+-->
 
-		<div class="clear"></div>
-		<footer>
-			<div>
-					<a href="http://www.avmz.ovgu.de"> Foto: OVGU/AVMZ</a> -	<a href="http://www.stura-md.de/Impressum">Impressum</a>
-			</div>
-		</footer>
-
+                <div class="clear"></div>
+                <div id="footer"></div>
 	</body>
 </html>
 
