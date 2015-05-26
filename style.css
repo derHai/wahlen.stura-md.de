@@ -77,7 +77,7 @@ ul#navigation li a {
 
 ul#navigation li a:hover {
     background:#f8f8f8;
-      color:#282828;
+    color:#282828;
 }
 
 ul#navigation li a.first {
@@ -151,24 +151,6 @@ ul#navigation ul li a {
    clear:both;
    width:150px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 h1, h2, h3{
 	font-weight: 100;
