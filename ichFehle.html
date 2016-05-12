@@ -1,0 +1,67 @@
+<!doctype html>
+
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+		<title>Gremienwahlen - wahlen.stura-md.de</title>
+
+		<link href='../style.css' rel='stylesheet' type='text/css'>
+		<script src='../shuffle.js'> </script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script type="text/javascript">
+		jQuery(function(){
+			$('.canidates').html(
+				shuffle($('.randomize'))
+			);
+		});
+		</script>
+                <script type="text/javascript">
+                jQuery(function(){
+                    $("#header").load("../header.html"); 
+                    $("#footer").load("../footer.html"); 
+                });
+                </script>
+
+	</head>
+	<body>
+                <div id="header"></div>
+		<div class="clear"></div>
+                <h3>Ich fehle in der Kandidatenliste!</h3>
+		<div class="full_box">
+                      <h4>Was muss ich tun um auf wahlen.stura-md.de zu erscheinen?</h4>
+                      <p>Wenn du als Studierender zur Wahl für den Senat, Studierendenrat, einem Fachschaftsrat oder einem Fakultätsrat stehst, kannst du dich auf dieser Seite vorstellen. Schicke dazu eine E-Mail an: <b>wahlen[ÄT]stura-md[PUNKT]de</b></p>
+                     <ul>
+                     <li>folgende Infos benötigen wir von dir:</li>
+                     <ul>
+                     <li>dein <b>Name</b></li>
+                     <li>das <b>Gremium</b>, für welches du kandidierst</li>
+                     <li>bei einer Listenwahl: die <b>Liste</b> beziehungsweise die Hochschulgruppe, für die du kandidierst</li>
+                     <li>ein <b>Bild</b> mit folgenden Regeln:</li>
+                        <ul>
+                        <li>ein Profilbild von dir - kein Text als Bild</li>
+                        <li>im Hochformat</li>
+                        <li>im jpg oder png Format</li> 
+                        <li>Dateigröße: maximal 100 Kilobyte</li>
+                        <li>maximale Höhe: 250 Pixel - sollte dein Foto höher sein, wird es auf diese maximale Höhe skaliert</li>
+                        </ul>
+                    <li>Optional ein <b>Text</b> mit folgenden Regeln:</li>
+                        <ul>
+                        <li>der Text soll euch selbst vorstellen und erklären warum euch Leute wählen sollten</li>
+                        <li>Kritik an anderen Hochschulgruppen oder Kandidaten ist <b>nicht</b> erlaubt</li>
+                        <li>maximal 500 sichtbare Zeichen (Leerzeichen und Zeilenumbrüche zählen nicht mit)</li>
+                        <li>bei zu langem Text wird (auch mitten im Wort) abgeschnitten</li>
+                        <li>der Text muss in deutscher oder englischer Sprache sein</li>
+                        <li>Der Text wird so veröffentlicht, wie du ihn per Mail schickst. Rechtschreibfehler werden von den Administratoren nicht korrigiert. </li>
+                        </ul>
+                    <li>Optional: Ein <b>Link</b> zu einer externen Seite, auf der ihr euch noch einmal genauer vorstellen könnt. (Oder z.B. eine Verlinkung zu der Facebook-Seite eurer Hochschulgruppe.)</li>
+                    </ul>
+                    <li>Mit deiner E-Mail an wahlen[ÄT]stura-md[Punkt]de genehmigst du die Veröffentlichung deiner Daten und deines Fotos auf wahlen.stura-md.de.</li>
+                     </ul>
+              </div>
+
+          <div id="footer"></div>
+	</body>
+</html>
+
